@@ -43,7 +43,6 @@ The SDLC, with models such as Waterfall (1970s), provided a systematic approach 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 ==ANSWER==
-
 1. Requirement Analysis
 2. System Design
 3. Implementation (Coding)
